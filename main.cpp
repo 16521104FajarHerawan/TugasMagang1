@@ -1,5 +1,5 @@
 #include <iostream>
-#include "inteface.h"
+#include "interface.h"
 #include "peta.h"
 using namespace std;
 int main(){
